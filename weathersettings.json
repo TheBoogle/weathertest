@@ -2,5 +2,6 @@
   "RainChance": 20,
   "ThunderstormChance": 70,
   "WeatherChangeRate": 10,
-  "Temperature": [80,105]
+  "TemperatureMin": 80,
+  "TemperatureMax": 105,
 }
