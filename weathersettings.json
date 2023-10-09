@@ -1,6 +1,6 @@
 {
-  "RainChance": 34,
-  "ThunderstormChance": 35,
+  "RainChance": 40,
+  "ThunderstormChance": 28,
   "WeatherChangeRate": 10,
   "TemperatureMin": 33,
   "TemperatureMax": 85
