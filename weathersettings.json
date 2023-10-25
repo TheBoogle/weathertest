@@ -3,6 +3,6 @@
   "ThunderstormChance": 18,
   "WeatherChangeRate": 10,
   "TemperatureMin": 33,
-  "TemperatureMax": 85,
+  "TemperatureMax": 60,
   "ExtraFog": 0.1
 }
