@@ -1,8 +1,8 @@
 {
-  "RainChance": 70,
+  "RainChance": 20,
   "ThunderstormChance": 3,
   "WeatherChangeRate": 10,
-  "TemperatureMin": 28,
-  "TemperatureMax": 40,
+  "TemperatureMin": 26,
+  "TemperatureMax": 33,
   "ExtraFog": 0
 }
