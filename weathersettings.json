@@ -2,7 +2,7 @@
   "RainChance": 45,
   "ThunderstormChance": 0,
   "WeatherChangeRate": 10,
-  "TemperatureMin": 25,
+  "TemperatureMin": 32,
   "TemperatureMax": 50,
   "ExtraFog": 0
 }
